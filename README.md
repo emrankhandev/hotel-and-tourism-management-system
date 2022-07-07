@@ -1,3 +1,3 @@
-# hotel-and-tourism-management-system
+for admin access -
 email: admin@gmail.com
-password: 12345
+password: 1234
